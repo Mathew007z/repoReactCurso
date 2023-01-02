@@ -1,0 +1,26 @@
+.menu-container {
+  background-color: yellow;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.nav-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.nav-logo {
+  margin-top: 30px;
+}
+a {
+  text-decoration: none;
+  padding: 5px;
+}
+a:hover {
+  color: blue;
+}
+li {
+  margin-top: 10px;
+}

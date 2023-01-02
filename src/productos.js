@@ -1,0 +1,60 @@
+const listaProductos = [
+  {
+    id: 1,
+    nombre: "SAMSUNG",
+    precio: 260000,
+    tipo: "TV",
+    img: "samsung.png",
+    cantidad: 1,
+  },
+  {
+    id: 2,
+    nombre: "LG",
+    precio: 190000,
+    tipo: "TV",
+    img: "LG.png",
+    cantidad: 1,
+  },
+  {
+    id: 3,
+    nombre: "TLC",
+    precio: 130000,
+    tipo: "TV",
+    img: "tcl.png",
+    cantidad: 1,
+  },
+  {
+    id: 4,
+    nombre: "SONY",
+    precio: 210000,
+    tipo: "TV",
+    img: "sony.png",
+    cantidad: 1,
+  },
+  {
+    id: 5,
+    nombre: "PS5",
+    precio: 315000,
+    tipo: "CONSOLA",
+    img: "ps5.png",
+    cantidad: 1,
+  },
+  {
+    id: 6,
+    nombre: "SWITCH",
+    precio: 125000,
+    tipo: "CONSOLA",
+    img: "switch.png",
+    cantidad: 1,
+  },
+  {
+    id: 7,
+    nombre: "SERIES",
+    precio: 190000,
+    tipo: "CONSOLA",
+    img: "series.png",
+    cantidad: 1,
+  },
+];
+
+export default listaProductos;

@@ -1,0 +1,31 @@
+.img-cart{
+    width: 350px;
+}
+
+
+.detail-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.cardCarrito{
+    text-align: center;
+}
+
+.cart-map{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+.vacio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
